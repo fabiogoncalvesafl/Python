@@ -10,3 +10,6 @@
 - Expressões Regulares
 - Padrões de projeto (Design Patterns da GoF)
 - HTML5 e CSS3 (Extra)s
+
+## Dicas de atalhos VS Code
+- Selecione uma linha de codigo clicando sobre ela e depois "Ctrl + c" e "Ctrl +v", vai duplicar a linha
